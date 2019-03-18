@@ -1,0 +1,10 @@
+{
+  "LiferayPlugin": {
+    "appServerPath": "C:\\projects\\liferay-ce-portal-7.1.2-ga3\\tomcat-9.0.10",
+    "deployPath": "C:\\projects\\liferay-ce-portal-7.1.2-ga3\\deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "C:\\projects\\liferay-ce-portal-7.1.2-ga3\\tomcat-9.0.10\\webapps\\porfolio-layout-layouttpl",
+    "deployed": true,
+    "pluginName": "porfolio-layout-layouttpl"
+  }
+}

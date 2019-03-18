@@ -22,4 +22,16 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="container">
+		<div class="portlet-layout row">
+			<div class="col-md-8 portlet-column portlet-column-first" id="column-4">
+				$processor.processColumn("column-4", "portlet-column-content")
+			</div>
+			<div class="col-md-4 portlet-column portlet-column-first" id="column-5">
+				$processor.processColumn("column-5", "portlet-column-content")
+			</div>
+		</div>
+	</div>
+
 </div>

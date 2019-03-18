@@ -1,5 +1,6 @@
 .yo-rc.json
 dist
-liferay-plugin.json
+# liferay-plugin.json
 node_modules
 **/package-lock.json
+package-lock.json
