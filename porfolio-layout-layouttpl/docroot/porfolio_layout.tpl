@@ -8,6 +8,7 @@
 		</div>
 	</div>
 	
+	
 	<div class="container-fluid banner-wrapper">
 		<div class="portlet-layout row">
 			<div class="col-md-12 portlet-column portlet-column-first" id="column-2">
